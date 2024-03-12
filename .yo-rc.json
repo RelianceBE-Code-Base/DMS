@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "dms-v-1-15-2",
+    "libraryId": "a6dda7f7-60c6-428b-adf9-f707665d055e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "dms-v-1-15-2",
+    "solutionShortDescription": "dms-v-1-15-2 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

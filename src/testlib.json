@@ -1,0 +1,663 @@
+[
+    {
+        "@odata.type": "#microsoft.graph.driveItem",
+        "createdDateTime": "2024-01-14T17:24:05Z",
+        "eTag": "\"{2D9B5E6C-0CC7-4B1D-93FA-538439253C76},6\"",
+        "id": "01CQQGYADML2NS3RYMDVFZH6STQQ4SKPDW",
+        "lastModifiedDateTime": "2024-01-14T17:25:02Z",
+        "name": "testfiles.docx",
+        "webUrl": "https://3zv7tj.sharepoint.com/_layouts/15/Doc.aspx?sourcedoc=%7B2D9B5E6C-0CC7-4B1D-93FA-538439253C76%7D&file=testfiles.docx&action=default&mobileredirect=true",
+        "cTag": "\"c:{2D9B5E6C-0CC7-4B1D-93FA-538439253C76},7\"",
+        "size": 19670,
+        "createdBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "lastModifiedBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "parentReference": {
+            "driveType": "documentLibrary",
+            "driveId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY",
+            "id": "01CQQGYAG4QT4ZGIPNYZBZBCDY6E7IPUMJ",
+            "path": "/drives/b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY/root:/SubFolder 1/SubFolder 1.1",
+            "siteId": "3cecca9c-84ed-4cbd-a605-1fa4122d79ad"
+        },
+        "file": {
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "hashes": {
+                "quickXorHash": "Z4A8GFkQ4251LCokAjROOA0IqVc="
+            }
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2024-01-14T17:24:05Z",
+            "lastModifiedDateTime": "2024-01-14T17:25:02Z"
+        },
+        "shared": {
+            "scope": "users"
+        },
+        "parentId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY"
+    },
+    {
+        "@odata.type": "#microsoft.graph.driveItem",
+        "createdDateTime": "2024-01-14T17:25:44Z",
+        "eTag": "\"{6FB65391-0110-4288-AD14-5F1B31857A7B},8\"",
+        "id": "01CQQGYAERKO3G6EABRBBK2FC7DMYYK6T3",
+        "lastModifiedDateTime": "2024-01-14T17:26:45Z",
+        "name": "testlibrarydocument.docx",
+        "webUrl": "https://3zv7tj.sharepoint.com/_layouts/15/Doc.aspx?sourcedoc=%7B6FB65391-0110-4288-AD14-5F1B31857A7B%7D&file=testlibrarydocument.docx&action=default&mobileredirect=true",
+        "cTag": "\"c:{6FB65391-0110-4288-AD14-5F1B31857A7B},9\"",
+        "size": 18057,
+        "createdBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "lastModifiedBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "parentReference": {
+            "driveType": "documentLibrary",
+            "driveId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY",
+            "id": "01CQQGYAG4QT4ZGIPNYZBZBCDY6E7IPUMJ",
+            "path": "/drives/b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY/root:/SubFolder 1/SubFolder 1.1",
+            "siteId": "3cecca9c-84ed-4cbd-a605-1fa4122d79ad"
+        },
+        "file": {
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "hashes": {}
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2024-01-14T17:25:44Z",
+            "lastModifiedDateTime": "2024-01-14T17:26:45Z"
+        },
+        "shared": {
+            "scope": "users"
+        },
+        "parentId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY"
+    },
+    {
+        "@odata.type": "#microsoft.graph.driveItem",
+        "createdDateTime": "2024-01-20T11:15:48Z",
+        "eTag": "\"{85AFFA79-3DB3-4EC4-AEA1-4859669401DB},3\"",
+        "id": "01CQQGYADZ7KXYLMZ5YRHK5IKILFTJIAO3",
+        "lastModifiedDateTime": "2024-01-20T11:15:57Z",
+        "name": "test1.txt",
+        "webUrl": "https://3zv7tj.sharepoint.com/TestLib/SubFolder%201/test1.txt",
+        "cTag": "\"c:{85AFFA79-3DB3-4EC4-AEA1-4859669401DB},3\"",
+        "size": 4,
+        "createdBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "lastModifiedBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "parentReference": {
+            "driveType": "documentLibrary",
+            "driveId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY",
+            "id": "01CQQGYABLQUEQUVDOSRAIUK2KVVBMWU6T",
+            "path": "/drives/b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY/root:/SubFolder 1",
+            "siteId": "3cecca9c-84ed-4cbd-a605-1fa4122d79ad"
+        },
+        "file": {
+            "mimeType": "text/plain",
+            "hashes": {
+                "quickXorHash": "dCjDHOgAAAAAAAAABAAAAAAAAAA="
+            }
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2024-01-20T11:15:48Z",
+            "lastModifiedDateTime": "2024-01-20T11:15:57Z"
+        },
+        "shared": {
+            "scope": "users"
+        },
+        "parentId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY"
+    },
+    {
+        "@odata.type": "#microsoft.graph.driveItem",
+        "createdDateTime": "2024-01-22T09:45:50Z",
+        "eTag": "\"{EBE87DD7-0E45-4BE3-B6BB-D258C8B03EA4},3\"",
+        "id": "01CQQGYAGXPXUOWRIO4NF3NO6SLDELAPVE",
+        "lastModifiedDateTime": "2024-01-22T09:45:58Z",
+        "name": "getting-started-with-sharepoint-framework-development-using-typescript-pnp-js.pdf",
+        "webUrl": "https://3zv7tj.sharepoint.com/TestLib/SubFolder%201/getting-started-with-sharepoint-framework-development-using-typescript-pnp-js.pdf",
+        "cTag": "\"c:{EBE87DD7-0E45-4BE3-B6BB-D258C8B03EA4},3\"",
+        "size": 6329289,
+        "createdBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "lastModifiedBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "parentReference": {
+            "driveType": "documentLibrary",
+            "driveId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY",
+            "id": "01CQQGYABLQUEQUVDOSRAIUK2KVVBMWU6T",
+            "path": "/drives/b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY/root:/SubFolder 1",
+            "siteId": "3cecca9c-84ed-4cbd-a605-1fa4122d79ad"
+        },
+        "file": {
+            "mimeType": "application/pdf",
+            "hashes": {
+                "quickXorHash": "WjKz8RmQFFlCxNdxGiczw+yp3qQ="
+            }
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2024-01-22T09:45:50Z",
+            "lastModifiedDateTime": "2024-01-22T09:45:58Z"
+        },
+        "shared": {
+            "scope": "users"
+        },
+        "parentId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY"
+    },
+    {
+        "@odata.type": "#microsoft.graph.driveItem",
+        "createdDateTime": "2024-01-14T17:34:55Z",
+        "eTag": "\"{F7A606B5-DC12-49F7-B7BF-8BC46F84B1D9},5\"",
+        "id": "01CQQGYAFVA2TPOEW465E3PP4LYRXYJMOZ",
+        "lastModifiedDateTime": "2024-01-14T17:35:18Z",
+        "name": "TestLibFile.docx",
+        "webUrl": "https://3zv7tj.sharepoint.com/_layouts/15/Doc.aspx?sourcedoc=%7BF7A606B5-DC12-49F7-B7BF-8BC46F84B1D9%7D&file=TestLibFile.docx&action=default&mobileredirect=true",
+        "cTag": "\"c:{F7A606B5-DC12-49F7-B7BF-8BC46F84B1D9},6\"",
+        "size": 18048,
+        "createdBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "lastModifiedBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "parentReference": {
+            "driveType": "documentLibrary",
+            "driveId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY",
+            "id": "01CQQGYAF6Y2GOVW7725BZO354PWSELRRZ",
+            "path": "/drives/b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY/root:",
+            "siteId": "3cecca9c-84ed-4cbd-a605-1fa4122d79ad"
+        },
+        "file": {
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "hashes": {
+                "quickXorHash": "Ubu9I9CDkkbxnnZDtPn5Li/6yTg="
+            }
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2024-01-14T17:34:55Z",
+            "lastModifiedDateTime": "2024-01-14T17:35:18Z"
+        },
+        "shared": {
+            "scope": "users"
+        },
+        "parentId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY"
+    },
+    {
+        "@odata.type": "#microsoft.graph.driveItem",
+        "createdDateTime": "2024-01-22T07:47:11Z",
+        "eTag": "\"{D13F3315-7D1C-4D23-A896-DF5E92627D0C},1\"",
+        "id": "01CQQGYAAVGM75CHD5ENG2RFW7L2JGE7IM",
+        "lastModifiedDateTime": "2024-01-22T07:47:11Z",
+        "name": "test1.txt",
+        "webUrl": "https://3zv7tj.sharepoint.com/TestLib/test1.txt",
+        "cTag": "\"c:{D13F3315-7D1C-4D23-A896-DF5E92627D0C},1\"",
+        "size": 4,
+        "createdBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "lastModifiedBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "parentReference": {
+            "driveType": "documentLibrary",
+            "driveId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY",
+            "id": "01CQQGYAF6Y2GOVW7725BZO354PWSELRRZ",
+            "path": "/drives/b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY/root:",
+            "siteId": "3cecca9c-84ed-4cbd-a605-1fa4122d79ad"
+        },
+        "file": {
+            "mimeType": "text/plain",
+            "hashes": {
+                "quickXorHash": "dCjDHOgAAAAAAAAABAAAAAAAAAA="
+            }
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2024-01-22T07:47:11Z",
+            "lastModifiedDateTime": "2024-01-22T07:47:11Z"
+        },
+        "shared": {
+            "scope": "users"
+        },
+        "parentId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY"
+    },
+    {
+        "@odata.type": "#microsoft.graph.driveItem",
+        "createdDateTime": "2024-01-22T07:47:11Z",
+        "eTag": "\"{CA8B7270-FF5E-4229-BE29-312949E15742},1\"",
+        "id": "01CQQGYADQOKF4UXX7FFBL4KJRFFE6CV2C",
+        "lastModifiedDateTime": "2024-01-22T07:47:11Z",
+        "name": "termset.txt",
+        "webUrl": "https://3zv7tj.sharepoint.com/TestLib/termset.txt",
+        "cTag": "\"c:{CA8B7270-FF5E-4229-BE29-312949E15742},1\"",
+        "size": 1879,
+        "createdBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "lastModifiedBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "parentReference": {
+            "driveType": "documentLibrary",
+            "driveId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY",
+            "id": "01CQQGYAF6Y2GOVW7725BZO354PWSELRRZ",
+            "path": "/drives/b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY/root:",
+            "siteId": "3cecca9c-84ed-4cbd-a605-1fa4122d79ad"
+        },
+        "file": {
+            "mimeType": "text/plain",
+            "hashes": {
+                "quickXorHash": "L2Pevi4tKXNE8dbslGsNTJGuNfk="
+            }
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2024-01-22T07:47:11Z",
+            "lastModifiedDateTime": "2024-01-22T07:47:11Z"
+        },
+        "shared": {
+            "scope": "users"
+        },
+        "parentId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY"
+    },
+    {
+        "@odata.type": "#microsoft.graph.driveItem",
+        "createdDateTime": "2024-01-22T10:32:24Z",
+        "eTag": "\"{49C06EBB-8F6F-49A5-A2FC-2193EA876B55},1\"",
+        "id": "01CQQGYAF3N3AES34PUVE2F7BBSPVIO22V",
+        "lastModifiedDateTime": "2024-01-22T10:32:24Z",
+        "name": "Updated Power Platform Developer.pdf",
+        "webUrl": "https://3zv7tj.sharepoint.com/TestLib/Updated%20Power%20Platform%20Developer.pdf",
+        "cTag": "\"c:{49C06EBB-8F6F-49A5-A2FC-2193EA876B55},1\"",
+        "size": 64621,
+        "createdBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "lastModifiedBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "parentReference": {
+            "driveType": "documentLibrary",
+            "driveId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY",
+            "id": "01CQQGYAF6Y2GOVW7725BZO354PWSELRRZ",
+            "path": "/drives/b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY/root:",
+            "siteId": "3cecca9c-84ed-4cbd-a605-1fa4122d79ad"
+        },
+        "file": {
+            "mimeType": "application/pdf",
+            "hashes": {
+                "quickXorHash": "VUKu6j03L8eX4pZkBxowvnc0BaE="
+            }
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2024-01-22T10:32:24Z",
+            "lastModifiedDateTime": "2024-01-22T10:32:24Z"
+        },
+        "shared": {
+            "scope": "users"
+        },
+        "parentId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJ7fMD6tDJcQIifIUQ1jOkY"
+    },
+    {
+        "@odata.type": "#microsoft.graph.driveItem",
+        "createdDateTime": "2022-12-17T06:29:00Z",
+        "eTag": "\"{AF66D8C4-F790-4054-A59C-B89A2E4D96DF},1\"",
+        "id": "01CQQGYAGE3BTK7EHXKRAKLHFYTIXE3FW7",
+        "lastModifiedDateTime": "2022-12-17T06:29:00Z",
+        "name": "20220527_SERVICES_A.PNG",
+        "webUrl": "https://3zv7tj.sharepoint.com/Dynamicmedia/20220527_SERVICES_A.PNG",
+        "cTag": "\"c:{AF66D8C4-F790-4054-A59C-B89A2E4D96DF},2\"",
+        "size": 144698,
+        "createdBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "lastModifiedBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "parentReference": {
+            "driveType": "documentLibrary",
+            "driveId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lLCgF4KwFcNRIWWzSsk6bSq",
+            "id": "01CQQGYAF6Y2GOVW7725BZO354PWSELRRZ",
+            "path": "/drives/b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lLCgF4KwFcNRIWWzSsk6bSq/root:",
+            "siteId": "3cecca9c-84ed-4cbd-a605-1fa4122d79ad"
+        },
+        "file": {
+            "mimeType": "image/png",
+            "hashes": {
+                "quickXorHash": "KXpGW/HzwrBpfC73+4gKOsyI7as="
+            }
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2022-12-17T06:29:00Z",
+            "lastModifiedDateTime": "2022-12-17T06:29:00Z"
+        },
+        "image": {
+            "height": 607,
+            "width": 1298
+        },
+        "photo": {},
+        "parentId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lLCgF4KwFcNRIWWzSsk6bSq"
+    },
+    {
+        "@odata.type": "#microsoft.graph.driveItem",
+        "createdDateTime": "2022-12-17T06:29:00Z",
+        "eTag": "\"{27C4DEAB-D713-40B1-97A9-F0943FFC21BB},1\"",
+        "id": "01CQQGYAFL33CCOE6XWFAJPKPQSQ77YIN3",
+        "lastModifiedDateTime": "2022-12-17T06:29:00Z",
+        "name": "canvaidea.PNG",
+        "webUrl": "https://3zv7tj.sharepoint.com/Dynamicmedia/canvaidea.PNG",
+        "cTag": "\"c:{27C4DEAB-D713-40B1-97A9-F0943FFC21BB},2\"",
+        "size": 403723,
+        "createdBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "lastModifiedBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "parentReference": {
+            "driveType": "documentLibrary",
+            "driveId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lLCgF4KwFcNRIWWzSsk6bSq",
+            "id": "01CQQGYAF6Y2GOVW7725BZO354PWSELRRZ",
+            "path": "/drives/b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lLCgF4KwFcNRIWWzSsk6bSq/root:",
+            "siteId": "3cecca9c-84ed-4cbd-a605-1fa4122d79ad"
+        },
+        "file": {
+            "mimeType": "image/png",
+            "hashes": {
+                "quickXorHash": "FH6jWqUSt5gZ8apL/i9sbBzqlBM="
+            }
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2022-12-17T06:29:00Z",
+            "lastModifiedDateTime": "2022-12-17T06:29:00Z"
+        },
+        "image": {
+            "height": 768,
+            "width": 1600
+        },
+        "photo": {},
+        "parentId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lLCgF4KwFcNRIWWzSsk6bSq"
+    },
+    {
+        "@odata.type": "#microsoft.graph.driveItem",
+        "createdDateTime": "2022-12-27T07:26:30Z",
+        "eTag": "\"{9CE10213-1557-4B6D-9242-9EA8D5328A55},1\"",
+        "id": "01CQQGYAATALQZYVYVNVFZEQU6VDKTFCSV",
+        "lastModifiedDateTime": "2022-12-27T07:26:30Z",
+        "name": "WhatsApp Video 2022-12-16 at 09.38.35.mp4",
+        "webUrl": "https://3zv7tj.sharepoint.com/Dynamicmedia/WhatsApp%20Video%202022-12-16%20at%2009.38.35.mp4",
+        "cTag": "\"c:{9CE10213-1557-4B6D-9242-9EA8D5328A55},1\"",
+        "size": 2134095,
+        "createdBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "lastModifiedBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "parentReference": {
+            "driveType": "documentLibrary",
+            "driveId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lLCgF4KwFcNRIWWzSsk6bSq",
+            "id": "01CQQGYAF6Y2GOVW7725BZO354PWSELRRZ",
+            "path": "/drives/b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lLCgF4KwFcNRIWWzSsk6bSq/root:",
+            "siteId": "3cecca9c-84ed-4cbd-a605-1fa4122d79ad"
+        },
+        "file": {
+            "mimeType": "video/mp4",
+            "hashes": {
+                "quickXorHash": "Uyz6X9XTVjfx0Wz9m0WD7dmFbTk="
+            }
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2022-12-27T07:26:30Z",
+            "lastModifiedDateTime": "2022-12-27T07:26:30Z"
+        },
+        "photo": {},
+        "video": {
+            "audioBitsPerSample": 16,
+            "audioChannels": 2,
+            "audioFormat": "AAC",
+            "audioSamplesPerSecond": 48000,
+            "bitrate": 1878656,
+            "duration": 7807,
+            "fourCC": "H264",
+            "frameRate": 30.006,
+            "height": 352,
+            "width": 640
+        },
+        "parentId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lLCgF4KwFcNRIWWzSsk6bSq"
+    },
+    {
+        "@odata.type": "#microsoft.graph.driveItem",
+        "createdDateTime": "2023-01-06T09:41:41Z",
+        "eTag": "\"{88A67B37-E02B-44B4-82DB-B1EBDB32F6E2},1\"",
+        "id": "01CQQGYABXPOTIQK7AWRCIFW5R5PNTF5XC",
+        "lastModifiedDateTime": "2023-01-06T09:41:41Z",
+        "name": "Document.docx",
+        "webUrl": "https://3zv7tj.sharepoint.com/_layouts/15/Doc.aspx?sourcedoc=%7B88A67B37-E02B-44B4-82DB-B1EBDB32F6E2%7D&file=Document.docx&action=default&mobileredirect=true",
+        "cTag": "\"c:{88A67B37-E02B-44B4-82DB-B1EBDB32F6E2},1\"",
+        "size": 0,
+        "createdBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "lastModifiedBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "parentReference": {
+            "driveType": "documentLibrary",
+            "driveId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJEtZ_0xhTtQqfL0cFvL2jj",
+            "id": "01CQQGYAF6Y2GOVW7725BZO354PWSELRRZ",
+            "path": "/drives/b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJEtZ_0xhTtQqfL0cFvL2jj/root:",
+            "siteId": "3cecca9c-84ed-4cbd-a605-1fa4122d79ad"
+        },
+        "file": {
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "hashes": {
+                "quickXorHash": "AAAAAAAAAAAAAAAAAAAAAAAAAAA="
+            }
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2023-01-06T09:41:41Z",
+            "lastModifiedDateTime": "2023-01-06T09:41:41Z"
+        },
+        "shared": {
+            "scope": "users"
+        },
+        "parentId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJEtZ_0xhTtQqfL0cFvL2jj"
+    },
+    {
+        "@odata.type": "#microsoft.graph.driveItem",
+        "createdDateTime": "2023-01-06T09:42:01Z",
+        "eTag": "\"{1B9C6010-68FF-43FF-8BE0-12BE2133222D},1\"",
+        "id": "01CQQGYAAQMCOBX73I75BYXYASXYQTGIRN",
+        "lastModifiedDateTime": "2023-01-06T09:42:01Z",
+        "name": "Blog research.PNG",
+        "webUrl": "https://3zv7tj.sharepoint.com/Shared%20Documents/Blog%20research.PNG",
+        "cTag": "\"c:{1B9C6010-68FF-43FF-8BE0-12BE2133222D},2\"",
+        "size": 43696,
+        "createdBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "lastModifiedBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "parentReference": {
+            "driveType": "documentLibrary",
+            "driveId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJEtZ_0xhTtQqfL0cFvL2jj",
+            "id": "01CQQGYAF6Y2GOVW7725BZO354PWSELRRZ",
+            "path": "/drives/b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJEtZ_0xhTtQqfL0cFvL2jj/root:",
+            "siteId": "3cecca9c-84ed-4cbd-a605-1fa4122d79ad"
+        },
+        "file": {
+            "mimeType": "image/png",
+            "hashes": {
+                "quickXorHash": "hxJBWIb7sBn3NXTi7K/4z0/IztU="
+            }
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2023-01-06T09:42:01Z",
+            "lastModifiedDateTime": "2023-01-06T09:42:01Z"
+        },
+        "image": {
+            "height": 577,
+            "width": 1054
+        },
+        "photo": {},
+        "shared": {
+            "scope": "users"
+        },
+        "parentId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJEtZ_0xhTtQqfL0cFvL2jj"
+    },
+    {
+        "@odata.type": "#microsoft.graph.driveItem",
+        "createdDateTime": "2024-01-22T11:14:44Z",
+        "eTag": "\"{752DE5B0-2E10-4A44-904D-1C7B72146C2D},1\"",
+        "id": "01CQQGYAFQ4UWXKEBOIRFJATI4PNZBI3BN",
+        "lastModifiedDateTime": "2024-01-22T11:14:44Z",
+        "name": "getting-started-with-sharepoint-framework-development-using-typescript-pnp-js.pdf",
+        "webUrl": "https://3zv7tj.sharepoint.com/Shared%20Documents/getting-started-with-sharepoint-framework-development-using-typescript-pnp-js.pdf",
+        "cTag": "\"c:{752DE5B0-2E10-4A44-904D-1C7B72146C2D},1\"",
+        "size": 6329289,
+        "createdBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "lastModifiedBy": {
+            "user": {
+                "email": "gerald@3zv7tj.onmicrosoft.com",
+                "id": "ec82a13c-7c69-4157-8cd0-0da2bb5c4b77",
+                "displayName": "Gerald Nduaguba"
+            }
+        },
+        "parentReference": {
+            "driveType": "documentLibrary",
+            "driveId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJEtZ_0xhTtQqfL0cFvL2jj",
+            "id": "01CQQGYAF6Y2GOVW7725BZO354PWSELRRZ",
+            "path": "/drives/b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJEtZ_0xhTtQqfL0cFvL2jj/root:",
+            "siteId": "3cecca9c-84ed-4cbd-a605-1fa4122d79ad"
+        },
+        "file": {
+            "mimeType": "application/pdf",
+            "hashes": {
+                "quickXorHash": "WjKz8RmQFFlCxNdxGiczw+yp3qQ="
+            }
+        },
+        "fileSystemInfo": {
+            "createdDateTime": "2024-01-22T11:14:44Z",
+            "lastModifiedDateTime": "2024-01-22T11:14:44Z"
+        },
+        "shared": {
+            "scope": "users"
+        },
+        "parentId": "b!nMrsPO2EvUymBR-kEi15rVh4PhY34DNEhyeFhzdK8lJEtZ_0xhTtQqfL0cFvL2jj"
+    }
+]
