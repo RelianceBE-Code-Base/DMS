@@ -114,6 +114,12 @@ export default class DmsWebPart extends BaseClientSideWebPart<IDmsWebPartProps> 
               groupFields: [
                 PropertyPaneTextField('description', {
                   label: strings.DescriptionFieldLabel
+                }),
+                PropertyPaneTextField('HostName', {
+                  label: strings.DescriptionFieldLabel
+                }),
+                PropertyPaneTextField('sereverrelativepath', {
+                  label: strings.DescriptionFieldLabel
                 })
               ]
             }

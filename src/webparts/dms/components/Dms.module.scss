@@ -1,11 +1,17 @@
 @import '~office-ui-fabric-react/dist/sass/References.scss';
 
+#root {
+  background-color: rgba(225, 223, 221, 0.2);
+}
+
+
 .dms {
 
   height: 100vh;
   box-sizing: border-box;
   margin: 0;
   width: 100%;
+  background-color: rgba(225, 223, 221, 0.2);
   //border: px solid #eee;
 
 
@@ -40,9 +46,33 @@
     flex-direction: column;
     flex-basis: 20%;
 //    float: left;
-    margin: 0;
+    //margin: 10%;
+    height: 100vh;
+    box-sizing: border-box;
+    border: 1px solid #eee;
+    //overflow-y: auto 
   }
 
+
+  .folderIcon {
+    background: url("../components/icons/folder.svg");
+    height: 20px;
+    width: 20px;
+    background-size: contain;
+    display:flex;
+    margin: 2px 2px;
+    box-sizing: border-box;
+}
+
+.folderName{
+  font-size: 12px;
+  box-sizing: border-box;
+  margin: 2px 2px;
+}
+
+  hr{
+    border: 0.25px solid #eee,
+  }
   // overflow: hidden;
   // padding: 1em;
   // color: "[theme:bodyText, default: #323130]";
